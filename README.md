@@ -1,12 +1,12 @@
 <h1> Hola ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<div size='30px'> 
+<div size='20px'> 
   Gracias por tomarse el tiempo para ver mi perfil de GitHub :smile: 
 </div>
 
 
 <h2> Acerca de mi </h2>
 Mi nombre es Favio Amarilla. Tengo 25 años, soy  Ingeniero en Informática y soy de Paraguay. </br>
-Tengo 5 años de experiencia como Desarrollador Full Stack, desde el 3017 me desempeño en el área de desarrollo web.
+Tengo 5 años de experiencia como Desarrollador Full Stack, desde el 2017 me desempeño en el área de desarrollo web.
 Tengo amplia experiencia en desarrollo backend con Java, así como frontend con Angular, he trabajado con diferentes bases de datos como MySQL, PostgreSQL y MongoDB. </br>
 Actualmente me encuentro realizando cursos sobre ReactJs y NodeJs para seguir adquiriendo conocimientos sobre tecnologías web. </br>
 Cuento con un nivel de ingles A2 y sigo aprendiendo un poco mas cada dia.
