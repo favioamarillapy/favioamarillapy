@@ -1,8 +1,3 @@
-<style>
-  a img {
-    margin-left: 10 px;
-  }
-</style>
 <h1> Hola ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <div size='20px'> 
   Gracias por tomarse el tiempo para ver mi perfil de GitHub :smile: 
@@ -73,11 +68,6 @@ Cuento con un nivel de ingles A2 y sigo aprendiendo un poco mas cada dia.
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-
-
-</br>
-<h2> Github Stats </h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" 
 
 
 </br>
